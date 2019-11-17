@@ -117,13 +117,13 @@
         <option value="$PROJECT_DIR$/collabs.html" />
         <option value="$PROJECT_DIR$/Filtrable.html" />
         <option value="$PROJECT_DIR$/carusel.html" />
-        <option value="$USER_HOME$/Desktop/сайт 3/Carousel.html" />
+        <option value="$PROJECT_DIR$/../сайт 3/Carousel.html" />
         <option value="$PROJECT_DIR$/Carousel.html" />
         <option value="$PROJECT_DIR$/Affix.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-11" />
     <option name="y" value="-15" />
     <option name="width" value="1260" />
@@ -155,6 +155,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -264,7 +265,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/сайт 3/Carousel.html">
+    <entry file="file://$PROJECT_DIR$/../сайт 3/Carousel.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
